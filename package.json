@@ -1,0 +1,19 @@
+{
+  "name": "gsgc-error",
+  "version": "0.0.1",
+  "description": "Shared error structure for GSGC APIs",
+  "main": "lib/gsgc-error.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giantslidegamecompany/gsgc-error.git"
+  },
+  "author": "Chase McClure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giantslidegamecompany/gsgc-error/issues"
+  },
+  "homepage": "https://github.com/giantslidegamecompany/gsgc-error#readme",
+  "engines": {
+    "node": ">= 6.9.0"
+  }
+}
